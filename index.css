@@ -13,7 +13,7 @@
         background-color: #dfe2e7fa;
         width: 900px;
         height: 400px;
-        background-image: image(file:///home/access/Desktop/restaurants_website/ASSETS/restaurant%20website.jpg);
+         background-image: url(../../Desktop/restaurants_website/ASSETS/restaurant\ website.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         
