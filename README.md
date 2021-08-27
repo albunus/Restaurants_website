@@ -12,7 +12,7 @@
  
 ## Setup/Installation Requirements
 
-Live link to view the project [link]  https://albunus.github.io/Responsive-restaurant-website/
+Live link to view the project [link]  https://albunus.github.io/Restaurants_website/
 
 ## Known Bugs
 The website lacks a storage site but plans to implement a firebase storage site are underway.
